@@ -82,8 +82,7 @@ python simulation.py
 
 ## Preview
 
-> Add a screenshot or GIF here for better presentation
-> (Tip: use tools like ScreenToGif or OBS)
+<img width="1063" height="676" alt="Output" src="https://github.com/user-attachments/assets/21e97aea-b8de-4b61-9a6c-a6c529e8c517" />
 
 
 ## Limitations
